@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <category>
+        <pattern>*</pattern>
+        <template>Xin lỗi! Trong kho dữ liệu của tôi không có câu trả lời cho câu hỏi của bạn! :(( </template>
+        
+    </category>
+    
+    <category> 
+        <pattern>Bạn tên gì</pattern>
+        <template>Tên tôi là duc'schatbot</template>
+    </category>
+    
+    <category> 
+        <pattern>Euro 2024 sẽ được tổ chức ở bao nhiêu thành phố</pattern>
+        <template>Euro 2024 sẽ được tổ chức ở 10 thành phố tại Đức</template>
+    </category>
+    <category> 
+        <pattern>Euro 2024 diễn ra ở đâu</pattern>
+        <template>Euro 2024 sẽ diễn ra tại Đức</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 bắt đầu khi nào</pattern>
+        <template>Euro 2024 sẽ bắt đầu vào ngày 14 tháng 6 năm 2024</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 kết thúc khi nào</pattern>
+        <template>Euro 2024 sẽ kết thúc vào ngày 14 tháng 7 năm 2024</template>
+    </category>
+
+    <category> 
+        <pattern>Có bao nhiêu đội tham gia Euro 2024</pattern>
+        <template>Có 24 đội sẽ tham gia Euro 2024</template>
+    </category>
+
+    <category> 
+        <pattern>Trận chung kết Euro 2024 sẽ diễn ra ở đâu</pattern>
+        <template>Trận chung kết Euro 2024 sẽ diễn ra tại sân vận động Olympiastadion ở Berlin</template>
+    </category>
+
+    <category> 
+        <pattern>Đương kim vô địch Euro là ai</pattern>
+        <template>Đương kim vô địch Euro là đội tuyển Ý</template>
+    </category>
+
+    <category> 
+        <pattern>Ai là huấn luyện viên của đội tuyển Đức tại Euro 2024</pattern>
+        <template>Huấn luyện viên của đội tuyển Đức tại Euro 2024 là Hansi Flick</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 có bao nhiêu bảng đấu</pattern>
+        <template>Euro 2024 có 6 bảng đấu</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 sẽ có bao nhiêu trận đấu</pattern>
+        <template>Euro 2024 sẽ có 51 trận đấu</template>
+    </category>
+
+    <category> 
+        <pattern>Trận mở màn Euro 2024 sẽ diễn ra ở đâu</pattern>
+        <template>Trận mở màn Euro 2024 sẽ diễn ra tại sân vận động Allianz Arena ở Munich</template>
+    </category>
+
+    <category> 
+        <pattern>Đội tuyển Pháp đã vô địch Euro bao nhiêu lần</pattern>
+        <template>Đội tuyển Pháp đã vô địch Euro 2 lần</template>
+    </category>
+
+    <category> 
+        <pattern>Đội tuyển Anh đã vô địch Euro bao nhiêu lần</pattern>
+        <template>Đội tuyển Anh chưa từng vô địch Euro</template>
+    </category>
+
+    <category> 
+        <pattern>Đội tuyển Tây Ban Nha đã vô địch Euro bao nhiêu lần</pattern>
+        <template>Đội tuyển Tây Ban Nha đã vô địch Euro 3 lần</template>
+    </category>
+
+    <category> 
+        <pattern>Đội tuyển Ý đã vô địch Euro bao nhiêu lần</pattern>
+        <template>Đội tuyển Ý đã vô địch Euro 2 lần</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 sẽ có bao nhiêu vòng đấu</pattern>
+        <template>Euro 2024 sẽ có 7 vòng đấu bao gồm vòng bảng, vòng 16 đội, tứ kết, bán kết và chung kết</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 sẽ được tổ chức ở bao nhiêu thành phố</pattern>
+        <template>Euro 2024 sẽ được tổ chức ở 10 thành phố tại Đức</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 có sử dụng VAR không</pattern>
+        <template>Euro 2024 sẽ sử dụng công nghệ VAR</template>
+    </category>
+
+    <category> 
+        <pattern>Đội nào vô địch Euro 2020</pattern>
+        <template>Đội tuyển Ý đã vô địch Euro 2020</template>
+    </category>
+
+    <category> 
+        <pattern>Đội tuyển nào đã giành quyền tham gia Euro 2024</pattern>
+        <template>Nhiều đội tuyển đã giành quyền tham gia Euro 2024 thông qua vòng loại</template>
+    </category>
+
+    <category> 
+        <pattern>Đội tuyển nào là ứng cử viên sáng giá cho Euro 2024</pattern>
+        <template>Đức, Pháp và Tây Ban Nha là những ứng cử viên sáng giá cho Euro 2024</template>
+    </category>
+
+    <category> 
+        <pattern>Cầu thủ nào xuất sắc nhất Euro 2020</pattern>
+        <template>Cầu thủ xuất sắc nhất Euro 2020 là Gianluigi Donnarumma của Ý</template>
+    </category>
+
+    <category> 
+        <pattern>Cầu thủ nào ghi nhiều bàn thắng nhất trong lịch sử Euro</pattern>
+        <template>Cầu thủ ghi nhiều bàn thắng nhất trong lịch sử Euro là Cristiano Ronaldo</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 có bao nhiêu đội từ châu Á</pattern>
+        <template>Không có đội bóng nào từ châu Á tham gia Euro 2024 vì đây là giải đấu dành cho các đội bóng châu Âu</template>
+    </category>
+
+    <category> 
+        <pattern>Quốc gia nào vô địch Euro nhiều nhất</pattern>
+        <template>Đức và Tây Ban Nha đều đã vô địch Euro 3 lần</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 có bao nhiêu vòng loại trực tiếp</pattern>
+        <template>Euro 2024 có 4 vòng loại trực tiếp: vòng 16 đội, tứ kết, bán kết và chung kết</template>
+    </category>
+
+    <category> 
+        <pattern>Euro đầu tiên tổ chức năm nào</pattern>
+        <template>Euro đầu tiên được tổ chức vào năm 1960</template>
+    </category>
+
+    <category> 
+        <pattern>Quốc gia nào vô địch Euro đầu tiên</pattern>
+        <template>Liên Xô đã vô địch Euro đầu tiên vào năm 1960</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 có bao nhiêu trận vòng bảng</pattern>
+        <template>Euro 2024 sẽ có 36 trận đấu vòng bảng</template>
+    </category>
+
+    <category> 
+        <pattern>Euro 2024 có bao nhiêu đội lần đầu tham gia</pattern>
+        <template>Chưa xác định được số đội lần đầu tham gia Euro 2024</template>
+    </category>
+    
+    <category> 
+        <pattern>Đội hình của tuyển Đức</pattern>
+        <template>Thủ môn: Manuel Neuer, Oliver Baumann, Marc-Andre ter Stegen
+
+Hậu vệ: Antonio Rudiger, David Raum, Jonathan Tah, Joshua Kimmich, Nico Schlotterbeck, Waldermar Anton, Maximilian Mittelstädt, Benjamin Henrichs, Robin Koch
+
+Tiền vệ: Pascal Gross, Toni Kroos, Jamal Musiala, Chris Fuhrich, Florian Wirtz, Leroy Sane, Ilkay Gundogan, Robert Andrich, Aleksandar Pavlovic
+
+Tiền đạo: Kai Havertz, Niclas Fullkrug, Thomas Muller, Maximilian Beier, Deniz Undav</template>
+    </category>
+    
+    <category> 
+        <pattern>Đội hình của tuyển Scotland</pattern>
+        <template>Thủ môn: Zander Clark, Angus Gunn, Liam Kelly
+
+Hậu vệ: Liam Cooper, Andrew Robertson, Anthony Ralston, Grant Hanley, Kieran Tierney, Jack Hendry, Ryan Porteous, Ross McCrorie, Greg Taylor, Scott McKenna
+
+Tiền vệ: Scott McTominay, John McGinn, Callum McGregor, Billy Gilmour, Stuart Armstrong, Lewis Morgan, Ryan Jack, Kenny McLean, James Forrest
+
+Tiền đạo: Lawrence Shankland, Che Adams, Ryan Christie, Tommy Conway</template>
+    </category>
+        
+    <category> 
+        <pattern>Đội hình của tuyển Hungary</pattern>
+        <template>Thủ môn: Peter Gulacsi, Peter Szappanos, Denes Dibusz
+
+Hậu vệ: Adam Lang, Botond Balogh, Attila Szalai, Attila Fiola, Willi Orban, Loic Nego, Milos Kerkez, Bendeguz Bolla, Zsolt Nagy, Endre Botka, Marton Dardai
+
+Tiền vệ: Adam Nagy, Dominik Szoboszlai, Andras Schafer, Laszlo Kleinheisler, Daniel Gazdag, Callum Styles, Mihaly Kata
+
+Tiền đạo: Martin Adam, Barnabas Varga, Roland Sallai, Kevin Csoboth, Krisztofer Horvath</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Thuỵ Sĩ</pattern>
+        <template>Thủ môn: Yann Sommer, Yvon Mvogo, Gregor Kobel
+
+Hậu vệ: Leonidas Stergiou, Silvan Widmer, Nico Elvedi, Manuel Akanji, Ricardo Rodriguez, Cedric Zesiger, Fabian Schar
+
+Tiền vệ: Denis Zakaria, Remo Freuler, Granit Xhaka, Renato Steffen, Steven Zuber, Vincent Sierro, Ruben Vargas, Michel Aebischer, Xherdan Shaquiri, Ardon Jashari, Fabian Rieder
+
+Tiền đạo: Breel Embolo, Noah Okafor, Kwadwo Duah, Dan Ndoye, Zeki Amdouni</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Tây Ban Nha</pattern>
+        <template>Thủ môn: Unai Simon, Alex Remiro, David Raya
+
+Hậu vệ: Dani Carvajal, Robin Le Normand, Nacho, Daniel Vivian, Alejandro Grimaldo, Aymeric Laporte, Marc Cucurella
+
+Tiền vệ: Mikel Merino, Fabian Ruiz, Alex Baena, Rodri, Nico Williams, Martin Zubimendi, Pedri, Mikel Oyarzabal
+
+Tiền đạo: Alvaro Morata, Joselu, Dani Olmo, Lamine Yamal, Jesus Navas, Fermin Lopez, Ayoze Perez</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Croatia</pattern>
+        <template>Thủ môn: Dominik Livakovic, Ivica Ivusic, Nediljko Labrovic
+
+Hậu vệ: Josip Stanisic, Marin Pongracic, Josko Gvardiol, Martin Erlic, Josip Sutalo, Borna Sosa, Domagoj Vida, Josip Juranovic
+
+Tiền vệ: Luka Modric, Mateo Kovacic, Lovro Majer, Marcelo Brozovic, Nikola Vlasic, Mario Pasalic, Luka Sucic, Martin Baturina
+
+Tiền đạo: Andrej Kramaric, Ivan Perisic, Ante Budimir, Bruno Petkovic, Luka Ivanusec, Marko Pjaca, Marco Pasalic</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Ý</pattern>
+        <template>Thủ môn: Gianluigi Donnarumma, Alex Meret, Guglielmo Vicario
+
+Hậu vệ: Giovanni Di Lorenzo, Federico Dimarco, Alessandro Buongiorno, Riccardo Calafiori, Federico Gatti, Matteo Darmian, Raoul Bellanova, Gianluca Mancini, Alessandro Bastoni, Andrea Cambiaso
+
+Tiền vệ: Davide Frattesi, Jorginho, Lorenzo Pellegrini, Bryan Cristante, Nicolo Barella, Nicolo Fagiolo
+
+Tiền đạo: Gianluca Scamacca, Giacomo Raspadori, Federico Chiesa, Mateo Retegui, Mattia Zaccagni, Stephan El Sharrawy, Michael Folorunsho</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Albania</pattern>
+        <template>Thủ môn: Etrit Barisha, Thomas Strakosha, Elhan Kastrati
+
+Hậu vệ: Iván Balliu, Mario Mitaj, Elseid Hysaj, Arlind Arjeti, Berat Djimsiti, Enea Mihaj, Ardian Ismajli, Marash Kumbulla, Naser Aliji
+
+Tiền vệ: Klaus Gjasula, Nedim Bajrami, Qazim Laci, Taulant Seferi, Ylber Ramadani, Kristjan Asllani, Amir Abrashi
+
+Tiền đạo: Rey Manaj, Jasir Asani, Armando Broja, Medon Berisha, Ernest Muci, Mirlind Daku, Arber Hoxha</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Anh</pattern>
+        <template>Thủ môn: Dean Henderson, Jordan Pickford, Aaron Ramsdale
+
+Hậu vệ: Lewis Dunk, Marc Guehi, Kyle Walker, Luke Shaw, John Stones, Trent Alexander-Arnold, Kieran Trippier, Ezri Konsa, Joe Gomez
+
+Tiền vệ: Declan Rice, Jude Bellingham, Phil Foden, Conor Gallagher, Cole Palmer, Adam Wharton, Kobbie Mainoo
+
+Tiền đạo: Bukayo Saka, Harry Kane, Ivan Toney, Anthony Gordon, Ollie Watkins, Jarrod Bowen, Eberchi Eze</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Đan Mạch</pattern>
+        <template>Thủ môn: Kasper Schmeichel, Frederik Ronnow, Mads Hermansen
+
+Hậu vệ: Jannik Vestergaard, Joachim Andersen, Simon Kjær, Joakim Mæhle, Andreas Christensen, Mathias Jurgensen, Victor Kristiansen, Alexander Bah, Rasmus Kristensen
+
+Tiền vệ: Pierre-Emile Hojbjerg, Christian Eriksen, Mathias Jensen, Thomas Delaney, Christian Norgaard, Morten Hjulmand, Anders Dreyer, Jacob Bruun Larsen
+
+Tiền đạo: Rasmus Hojlund, Andreas Skov Olsen, Kasper Dolberg, Mikkel Damsgaard, Jonas Wind, Yussuf PoulsenThủ môn: Kasper Schmeichel, Frederik Ronnow, Mads Hermansen
+
+Hậu vệ: Jannik Vestergaard, Joachim Andersen, Simon Kjær, Joakim Mæhle, Andreas Christensen, Mathias Jurgensen, Victor Kristiansen, Alexander Bah, Rasmus Kristensen
+
+Tiền vệ: Pierre-Emile Hojbjerg, Christian Eriksen, Mathias Jensen, Thomas Delaney, Christian Norgaard, Morten Hjulmand, Anders Dreyer, Jacob Bruun Larsen
+
+Tiền đạo: Rasmus Hojlund, Andreas Skov Olsen, Kasper Dolberg, Mikkel Damsgaard, Jonas Wind, Yussuf Poulsen</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Serbia</pattern>
+        <template>Thủ môn: Predrag Rajkovic, Vanja Milinkovic-Savic, Dorđe Petrovic
+
+Hậu vệ: Strahinja Pavlovic, Nemanja Stojic, Nikola Milenkovic, Miloš Veljkovic, Srđan Babic, Uros Spajic, Filip Mladenovic
+
+Tiền vệ: Nemanja Maksimovic, Nemanja Gudelj, Srđan Mijailovic, Ivan Ilic, Lazar Samardzic, Sergej Milinkovic-Savic, Mijat Gacinovic, Sasa Lukic, Veljko Birmancevic
+
+Tiền đạo: Dusan Vlahovic, Luka Jovic, Aleksandar Mitrovic, Dusan Tadic, Peter Ratkov</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Slovenia</pattern>
+        <template>Thủ môn: Jan Oblak, Vid Belec, Igor Vekic
+
+Hậu vệ: Zan Karnicnik, Jure Balkovec, Miha Blazic, Jon Gorenc Stankovic, Jaka Bijol, Erik Janza, Petar Stojanovic, Vanja Drkusic, David Brekalo
+
+Tiền vệ: Benjamin Verbic, Sandri Lovric, Timi Elšnik, Jasmin Kurtic, Tomi Horvat, Adam Gnezda-Cerin, Nino Zugelj, Adrian Zeljkovic, Josip Ilicic
+
+Tiền đạo: Andraz Sporar, Benjamin Sesko, Jan Mlakar, Zan Vipotnik, Zan Celar</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Pháp</pattern>
+        <template>Thủ môn: Brice Samba, Mike Maignan, Alphonse Areola
+
+Hậu vệ: Benjamin Pavard, Ferland Mendy, Dayot Upamecano, Jules Kounde, William Saliba, Jonathan Clauss, Theo Hernandez, Ibrahima Konaté
+
+Tiền vệ: Eduardo Camavinga, Antoine Griezmann, Aurelien Tchouameni, N'Golo Kante, Adrien Rabiot, Warren Zaire-Emery, Youssouf Fofana
+
+Tiền đạo: Olivier Giroud, Kylian Mbappe, Ousmane Dembele, Randal Kolo Muani, Marcus Thuram, Kingsley Coman, Bradley Barcola</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Hà Lan</pattern>
+        <template>Thủ môn: Justin Bijlow, Mark Flekken, Bart Verbruggen
+
+Hậu vệ: Lutsharel Geertruida, Matthijs De Ligt, Virgil van Dijk, Nathan Ake, Stefan De Vrij, Micky van de Ven, Daley Blind, Denzel Dumfries
+
+Tiền vệ: Georginio Wijnaldum, Tijjani Reijnders, Joey Veerman, Teun Koopmeiners, Frenkie de Jong, Jerdy Schouten, Ryan Gravenberch
+
+Tiền đạo: Xavi Simons, Wout Weghorst, Memphis Depay, Cody Gakpo, Jeremie Frimpong, Donyell Malen, Brian Brobbey, Steven Bergwiijn</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Ba Lan</pattern>
+        <template>Thủ môn: Wojciech Szczesny, Lukasz Skorupski, Marcin Bulka
+
+Hậu vệ: Bartosz Salamon, Sebastian Walukiewicz, Jan Bednarek, Jakub Kiwior, Tymoteusz Puchacz, Bartosz Beresznski, Przemyslaw Frankowski
+
+Tiền vệ: Pawel Dawidowicz, Jakub Piotrowski, Jakub Moder, Piotr Zielinksi, Kamil Grosicki, Taras Romanczuk, Damian Szymanski, Sebastian Szymanski, Nicola Zalewski, Bartosz Slisz, Kacper Urbanski
+
+Tiền đạo: Karol Swiderski, Robert Lewandowski, Adam Buksa, Krzysztof Piatek, Michal Skoras</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Áo</pattern>
+        <template>Thủ môn: Heinz Linder, Niklas Hedl, Patrick Pentz
+
+Hậu vệ: Maximilian Wöber, Gernot Trauner, Kevin Tanso, Stefan Posch, Leopold Querfeld, Phillipp Mwene, Philipp Lienhart, Flavius Daniliuc, Patrick Wimmer
+
+Tiền vệ: Nicolas Seiwald, Alexander Prass, Marcel Sabitzer, Florian Grillitsch, Florian Kainz, Romano Schmid, Christoph Baumgartner, Matthias Seidl, Marco Grull
+
+Tiền đạo: Marko Arnautović, Michael Gregoritsch, Andreas Weimann, Maximilian Entrup</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Bỉ</pattern>
+        <template>Thủ môn: Koen Casteels, Thomas Kaminski, Matz Sels
+
+Hậu vệ: Timothy Castagne, Zeno Debast, Wout Faes, Arthur Theate, Jan Vertonghen, Thomas Meunier
+
+Tiền vệ: Axel Witsel, Kevin De Bruyne, Youri Tielemans, Leandro Trossard, Aster Vranckx, Orel Mangala, Amadou Onana, Arthur Vermeeren, Maxim De Cuyper
+
+Tiền đạo: Romelu Lukaku, Yannick Carrasco, Dodi Lukébakio, Charles De Ketelaere, Johan Bakayoko, Loïs Openda, Jérémy Doku</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Romania</pattern>
+        <template>Thủ môn: Florin Nița, Horațiu Moldovan, Ștefan Tarnovanu
+
+Hậu vệ: Andrei Ratiu, Radu Dragusin, Adrian Rus, Ionut Nedelcearu, Nicusor Bancu, Andrei Burcă, Vasile Mogoș, Bogdan Racovițan
+
+Tiền vệ: Marius Marin, Alexandra Cicaldau, Ianis Hagi, Darius Olaru, Razvan Marin, Nicolae Stanciu, Deian Sorescu, Adrian Sut
+
+Tiền đạo: Denis Alibec, George Puscas, Valentin Mihaila, Florinel Coman, Denis Draguș, Dennis Man, Daniel Birligea</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Slovakia</pattern>
+        <template>Thủ môn: Martin Dubravka, Marek Rodak, Henrich Ravas
+
+Hậu vệ: Peter Pekarik, Denis Vavro, Adam Obert, Norbert Gyömber, Milan Škriniar, Vernon De Marco, David Hancko, Sebastian Kósa
+
+Tiền vệ: Tomas Rigo, Ondrej Duda, Laszlo Benes, Patrik Hrosovsky, Juraj Kucka, Matus Bero, Stanislav Lobotka
+
+Tiền đạo: Tomas Suslov, Robert Bozenik, Lubomir Tupta, Lukas Haraslin, David Strelec, David Duris, Leo Sauer, Ivan Schranz
+
+</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Ukraine</pattern>
+        <template>Thủ môn: Andriy Lunin, Anatoliy Trubin, Georgiy Bushchan
+
+Hậu vệ: Yukhym Konoplia, Oleksandr Svatok, Maksym Talovierov, Illia Zabarnyi, Vitaliy Mykolenko, Oleksandr Zinchenko, Valeriy Bondar, Mykola Matviyenko, Oleksandr Tymchyk, Bogdan Mykhaylichenko
+
+Tiền vệ: Serhiy Sydorchuk, Taras Stepanenko, Andriy Yarmolenko, Ruslan Malinovskyi, Georgiy Sudakov, Viktor Tsygankov, Volodymyr Brazhko, Mykola Shaparenko, Oleksandr Zubkov
+
+Tiền đạo: Roman Yaremchuk, Mykhailo Mudryk, Artem Dovbyk, Vladyslav Vanat</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Bồ Đào Nha</pattern>
+        <template>Thủ môn: Rui Patricio, Jose Sa, Diogo Costa
+
+Hậu vệ: Nelson Semedo, Pepe, Ruben Dias, Diogo Dalot, Goncalo Inacio, Nuno Mendes, Joao Cancelo, Antonio Silva
+
+Tiền vệ: Joao Palhinha, Bruno Fernandes, Bernardo Silva, Danilo, Joao Neves, Matheus Nunes, Ruben Neves, Vitinha, Pedro Neto
+
+Tiền đạo: Cristiano Ronaldo, Goncalo Ramos, Joao Felix, Rafael Leao, Diogo Jota, Francisco Conceicao</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Thổ Nhĩ Kỳ</pattern>
+        <template>Thủ môn: Altay Bayindir, Ugurcan Cakir, Mert Gunok
+
+Hậu vệ: Zeki Celik, Merih Demiral, Samet Akaydin, Ahmetcan Kaplan, Abdulkerim Bardakci, Mert Muldur, Ferdi Kadioglu
+
+Tiền vệ: Okay Yokuslu, Orkun Kokcu, Hakan Calhanoglu, Salih Ozcan, Ismail Yuksek, Kaan Ayhan
+
+Tiền đạo: Kerem Akturkoglu, Arda Guler, Cenk Tosun, Yusuf Yazici, Irfan Can Kahveci, Kenan Yildiz, Baris Alper Yilmaz, Semih Kilicsoy, Yunus Akgun, Bertug Yildirim.</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Zcech</pattern>
+        <template>Thủ môn: Jindrich Stanek, Matej Kovar, Vitezslav Jaros
+
+Hậu vệ: David Zima, Robin Hranac, Vladimir Coufal, Martin Vitik, David Doudera, David Jurasek, Ladislav Krejci, Tomas Vlcek
+
+Tiền vệ: Tomas Holes, Antonín Barak, Michal Sadilek, Lukas Provod, Ondrej Lingr, Lukas Cerv, Tomás Soucek, Pavel Sulc, Matej Jurasek
+
+Tiền đạo: Adam Hlozek, Patrik Schick, Jan Kuchta, Mojmíir Chytil, Vaclav Cerny, Tomas Chory</template>
+    </category>
+
+        
+    <category> 
+        <pattern>Đội hình của tuyển Georgia</pattern>
+        <template>Thủ môn: Giorga Loria, Luka Gugeshashvili, Giorgi Mamardashvili
+
+Hậu vệ: Otar Kakabadze, Lasha Dvali, Guram Kashia, Solomon Kverkvelia, Giorgi Gocholeishvili, Luka Lochoshvili, Giorgi Gvelesiani, Jemal Tabidze
+
+Tiền vệ: Giorgi Kochorashvili, Zuriko Davitashvili, Giorgi Chakvetadze, Nika Kvekveskiri, Otar Kiteishvili, Sandro Altunashvili, Levan Shengelia, Anzor Mekvabishvili, Giorgi Tsitaishvili, Saba Lobjanidze, Gabriel Sigua
+
+Tiền đạo: Khvicha Kvaratskhelia, Budu Zivzivadze, Giorgia Kvilitaia, Georges Mikautadze</template>
+    </category>
+           
+    <category> 
+        <pattern>Bảng A</pattern>
+        <template>Đức - Thuỵ Sĩ - Hungary - Scotland</template>
+    </category>
+           
+    <category> 
+        <pattern>Bảng B</pattern>
+        <template>Tây Ban Nha - Italy - Albania - Croatia</template>
+    </category>
+
+    <category> 
+        <pattern>Bảng C</pattern>
+        <template>Anh - Slovenia - Đan Mạch - Serbia</template>
+    </category>
+           
+    <category> 
+        <pattern>Bảng D</pattern>
+        <template>Hà Lan - Ba Lan - Áo - Pháp</template>
+    </category>
+           
+    <category> 
+        <pattern>Bảng E</pattern>
+        <template>Bỉ - Slovakia - Roamania - Ukraina</template>
+    </category>
+           
+    <category> 
+        <pattern>Bảng F</pattern>
+        <template>Thổ Nhĩ Kỳ - Georgia - Bồ Đào Nha - Czech</template>
+    </category>
+
+    
+</aiml>
